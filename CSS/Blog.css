@@ -1,0 +1,91 @@
+main{
+    color: rgb(226, 226, 224);
+    background: #181818;
+}
+
+.heading{
+    border: 1px solid ;
+    padding: 9px 2px;
+
+}
+.campus{
+    width: 49vw;
+    height: auto;
+    display: inline-block;
+    margin: auto;
+    font-size:18px;
+    border: 1px solid blanchedalmond;
+    border-radius: 9px;
+    
+}
+.Engg{
+    width: 49vw;
+    height: auto;
+    display: inline-block;
+    margin: auto;
+    font-size:18px;
+    border: 1px solid blanchedalmond;
+    border-radius: 9px;
+    
+}
+.first{
+    width: 49vw;
+    height: auto;
+    display: inline-block;
+    margin: auto;
+   font-size: 18px;
+    border: 1px solid blanchedalmond;
+    border-radius: 9px;
+    
+}
+.sem{
+    width: 49vw;
+    height: auto;
+    display: inline-block;
+    margin: auto;
+    font-size:18px;
+    border: 1px solid blanchedalmond;
+    border-radius: 9px;
+    
+}
+.second{
+    width: 49vw;
+    height: auto;
+    display: inline-block;
+    margin: auto;
+    font-size:18px;
+    border: 1px solid blanchedalmond;
+    border-radius: 9px;
+    
+}
+.third{
+    width: 49vw;
+    height: auto;
+    display: inline-block;
+    margin: auto;
+    font-size:18px;
+    border: 0.3px solid blanchedalmond;
+    border-radius: 9px;
+    
+}
+
+.forth{
+    width: 49vw;
+    height: auto;
+    display: inline-block;
+    margin: auto;
+    font-size:18px;
+    border: 0.3px solid blanchedalmond;
+    border-radius: 9px;
+    
+}
+
+.fifth{
+    width: 49vw;
+    height: auto;
+    display: inline-block;
+    margin: auto;
+    font-size:18px;
+    border: 0.3px solid blanchedalmond;
+    border-radius: 9px;  
+}

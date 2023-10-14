@@ -1,0 +1,32 @@
+main{
+    color: rgb(226, 226, 224);
+    background:#181818;;
+
+}
+
+.container1{
+    display: inline-block;
+    padding: 200px 50px 110px 90px;
+   
+}
+.text1{
+    display: inline-block;
+    font-size: 20px;
+    background: #686767;
+
+}
+
+.container2{
+    display: inline-block;
+    padding: 100px 50px 110px 160px;
+}
+.text2{
+    display: inline-block;
+    font-size: 20px;
+    background: #686767;
+}
+
+.text3{
+    padding: 90px 0px;
+    background: none;
+}

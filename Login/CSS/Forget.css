@@ -1,0 +1,40 @@
+main{
+    color: aliceblue;
+    height: 575px;
+    padding-top: 60px;
+    background-image: url('Img/IMG_2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    padding: 50px 0px;
+}
+
+.container{
+    height: 427px;
+    width: 550px;
+    color: rgb(41, 41, 41);
+    margin-top: 80px;
+    margin-left: 27%;
+    text-align: center;
+    padding: 15px 0px;
+    font-size: 22px;
+    border: 2px solid rgb(228, 228, 227);
+    background-image: url('IMG/BG_12.jpg');
+    background-size: cover;
+    border-radius: 9px;
+
+}
+
+.button{
+    color: aliceblue;
+    background: rgb(0, 151, 189);
+    height: 40px;
+    width: 100px;
+    border: 0.5px;
+    border-radius: 6px;
+    font-size: 20px;
+}

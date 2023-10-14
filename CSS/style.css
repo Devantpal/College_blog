@@ -1,0 +1,57 @@
+main{
+    color: rgb(238, 237, 237);
+    background: #181818;
+    background-size: cover;
+    background-repeat: repeat-y;
+}
+
+.container {
+    height: 65vh;
+    width: 95%;
+    padding: 0px 16px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.container1 {
+    height: 60vh;
+    width: 20vw;
+    color: rgb(84, 116, 117);
+    background-image: url(img/BG_11.jpg);
+    background-size: cover;
+    padding-top: 9px;
+    border: 1px solid;
+    border-radius: 11px;
+    text-align: center;
+    margin: 0px 75px;
+    
+}
+
+.container2 {
+    height: 60vh;
+    width: 20vw;
+    color: rgb(84, 116, 117);
+    background-image: url(img/BG_11.jpg);
+    background-size: cover;
+    padding-top: 9px;
+    border: 1px solid;
+    border-radius: 11px;
+    text-align: center;
+    margin: 0px 75px;
+
+}
+
+.container3 {
+    height: 60vh;
+    width: 20vw;
+    color: rgb(84, 116, 117);
+    background-image: url(img/BG_11.jpg);
+    background-size: cover;
+    padding-top: 9px;
+    border: 1px solid;
+    border-radius: 11px;
+    text-align: center;
+    margin: 0px 75px;
+}
